@@ -1,4 +1,4 @@
-# 🎓 University of Jordan Student Support App 🚀
+# 🎓 University of Jordan Student JUMATE App 🚀
 
 ## 📖 Overview
 
