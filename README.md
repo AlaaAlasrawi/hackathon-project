@@ -36,6 +36,6 @@ This mobile application was built during the **University of Jordan Hackathon**,
 
 ## 📞 Contact
 
-- **GitHub:** [@AlaaYousefA](https://github.com/AlaaYousefA)
+- **GitHub:** [@AlaaYousefA](https://github.com/AlaaAlasrawi)
 - **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/alaaalasrawi/)
 
