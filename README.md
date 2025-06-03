@@ -34,7 +34,7 @@ This mobile application was built during the **University of Jordan Hackathon**,
 - **Organized by UJIEC - University of Jordan Innovation and Entrepreneurship Center**
 - **Developed by Alaa Yousef & Ayat Al-Naqeeb**
 
-## 📞 Contact
+## 📩 Contact
 
 - **GitHub:** [@AlaaAlasrawi](https://github.com/AlaaAlasrawi)
 - **LinkedIn:** [alaaalasrawi](https://www.linkedin.com/in/alaaalasrawi/)
